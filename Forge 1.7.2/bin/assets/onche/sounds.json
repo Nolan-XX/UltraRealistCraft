@@ -1,0 +1,11 @@
+{
+    "records.tuto": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/oncheoncheparty",
+                "stream": true
+            }
+        ]
+    }
+}
